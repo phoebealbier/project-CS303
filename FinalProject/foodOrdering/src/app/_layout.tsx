@@ -60,7 +60,7 @@ function RootLayoutNav() {
     <CartProvider>
       <Stack>         
        <Stack.Screen
-                    name="(tabs)"
+                    name="(users)"
                     options={{ headerShown: false }}
                   />
                   <Stack.Screen
